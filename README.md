@@ -15,20 +15,20 @@
 ----
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/network/members"><img src="https://img.shields.io/github/forks/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/stargazers"><img src="https://img.shields.io/github/stars/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?"><img src="https://img.shields.io/github/last-commit/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?style=plastic"></
+<p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM/network/members"><img src="https://img.shields.io/github/forks/Kingnobitaop/NOBITA-BOTFATHER-SPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM/stargazers"><img src="https://img.shields.io/github/stars/Kingnobitaop/NOBITA-BOTFATHER-SPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM?"><img src="https://img.shields.io/github/last-commit/Kingnobitaop/NOBITA-BOTFATHER-SPAM?style=plastic"></
 
 -------------------------------------------------
 
 ## Sᴜᴘᴘᴏʀᴛ 
                           
-<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Savage_Bot_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/king_nobita_op"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/tsf_sp4mm3r"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/OFFICIAL_SAMEER)
+## Oᴡɴᴇʀ -[PIYUSH OP](https://t.me/king_nobita_op)
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM.git)
 ------------------------------------------------
 
