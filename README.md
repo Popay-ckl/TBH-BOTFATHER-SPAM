@@ -15,7 +15,7 @@
 ----
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/harshparmar0/NOBITA-BOTFATHER-SPAM/network/members"><img src="https://img.shields.io/github/forks/Kingnobitaop/NOBITA-BOTFATHER-SPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM/stargazers"><img src="https://img.shields.io/github/stars/Kingnobitaop/NOBITA-BOTFATHER-SPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM?"><img src="https://img.shields.io/github/last-commit/Kingnobitaop/NOBITA-BOTFATHER-SPAM?style=plastic"></
+<p align="left"><a href="https://github.com/Popay-ckl/NOBITA-BOTFATHER-SPAM/network/members"><img src="https://img.shields.io/github/forks/Kingnobitaop/NOBITA-BOTFATHER-SPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM/stargazers"><img src="https://img.shields.io/github/stars/Kingnobitaop/NOBITA-BOTFATHER-SPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM"></a><p align="left"><a href="https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM?"><img src="https://img.shields.io/github/last-commit/Kingnobitaop/NOBITA-BOTFATHER-SPAM?style=plastic"></
 
 -------------------------------------------------
 
@@ -29,6 +29,6 @@
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshparmar0/NOBITA-BOTFATHER-SPAM.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Popay-ckl/NOBITA-BOTFATHER-SPAM.git)
 ------------------------------------------------
 
