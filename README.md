@@ -29,6 +29,6 @@
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingnobitaop/NOBITA-BOTFATHER-SPAM.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshparmar0/NOBITA-BOTFATHER-SPAM.git)
 ------------------------------------------------
 
