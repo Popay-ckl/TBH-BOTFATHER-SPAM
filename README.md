@@ -25,7 +25,7 @@
 <a href="https://t.me/TBH_N3TWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[PIYUSH OP](https://t.me/king_nobita_op)
+## Oᴡɴᴇʀ -[𝑯𝑬𝑳𝑳𝑩𝑶𝒀](https://t.me/ITS_HELLL_BOYYY)
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
