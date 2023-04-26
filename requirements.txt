@@ -2,6 +2,6 @@ python-decouple
 telethon
 cryptg
 heroku3
-sqlalchemy==1.3.20
+sqlalchemy==2.0.10
 psycopg2
 gitpython
